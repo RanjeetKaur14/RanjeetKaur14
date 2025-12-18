@@ -38,7 +38,7 @@ An independent upgrade focused on personalization.
 ---
 
 ## 📫 Connect
-- LinkedIn: add-your-link-here
+- LinkedIn: (https://www.linkedin.com/in/ranjeet-kaur-b95903321/)
 
 - ---
 
