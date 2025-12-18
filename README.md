@@ -44,5 +44,6 @@ An independent upgrade focused on personalization.
 
 ## 🐍 Contribution Activity
 
-![GitHub Snake](https://raw.githubusercontent.com/ranjeetkaur14/ranjeetkaur14/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/ranjeetkaur14/ranjeetkaur14/output/github-contribution-grid-snake-dark.svg)
+
 
