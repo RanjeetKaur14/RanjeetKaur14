@@ -39,3 +39,10 @@ An independent upgrade focused on personalization.
 
 ## 📫 Connect
 - LinkedIn: add-your-link-here
+
+- ---
+
+## 🐍 Contribution Activity
+
+![GitHub Snake](https://raw.githubusercontent.com/ranjeetkaur14/ranjeetkaur14/output/github-contribution-grid-snake.svg)
+
