@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Ranjeet Kaur
 
-<!--
-**RanjeetKaur14/RanjeetKaur14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student interested in building meaningful software by combining clean logic, thoughtful design, and real-world use cases.  
+I enjoy taking simple ideas and refining them through iteration and independent development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+- **Languages:** C++, Java, JavaScript  
+- **Web:** HTML, CSS, JavaScript  
+- **Backend & Tools:** Firebase  
+- **Cloud & Deployment:** Cloudinary, GitHub Pages  
+- **Core CS:** Data Structures, OOP, DBMS  
+
+---
+
+## 🚀 Featured Projects
+
+### 🖼️ Memory Mosaic
+A web application inspired by traditional photo albums, built during a hackathon.
+
+🔗 https://ranjeetkaur14.github.io/MemoryMosaic/
+
+---
+
+### 🧩 Memory Mosaic 2.0
+An independent upgrade focused on personalization.
+
+🔗 https://ranjeetkaur14.github.io/MemoryMosaic-2.0/
+
+---
+
+## 🌱 Currently Learning
+- Advanced Data Structures  
+- Java (OOP)  
+- UNIX programming  
+
+---
+
+## 📫 Connect
+- LinkedIn: add-your-link-here
