@@ -1,163 +1,45 @@
-# Ranjeet Kaur
+# hey, I'm Ranjeet 👋
 
-Computer Science student passionate about building impactful software through intelligent systems, scalable architecture, and problem-solving.  
-I enjoy turning ideas into practical applications by combining clean logic, strong technical foundations, and thoughtful user experience.
-
----
-
-## About Me
-
-- B.Tech Computer Science student
-- Interested in AI systems, software engineering, data structures, and full-stack development
-- Focused on building projects with real-world applications
-- Strong interest in algorithmic problem solving and system design
-- Exploring intelligent systems, scalable applications, and modern web technologies
+CS student at JIIT. I build things that sit at the intersection of algorithms, AI, and real-world problems — from marine ecosystem ML pipelines to disaster evacuation systems.
 
 ---
 
-# Tech Stack
+## 🛠 what I work with
 
-## Languages
-- C++
-- Python
-- JavaScript
-- Java
-- HTML5
-- CSS3
-
-## Frontend
-- HTML
-- CSS
-- JavaScript
-- Chart.js
-
-## Backend & Cloud
-- Firebase
-- Firestore
-- Cloudinary
-
-## AI / Data Science
-- Scikit-learn
-- XGBoost
-- Pandas
-- NumPy
-
-## Developer Tools
-- Git
-- GitHub
-- GitHub Pages
-
-## Core Computer Science
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- DBMS
-- Graph Algorithms
-- System Design
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logo=xgboost&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-# Featured Projects
+## 🚀 projects
 
-## BioClimate Analysis
+**[BioClimate Analysis](https://github.com/ranjeetkaur14)**
+ML system for predicting fish survival outcomes under changing ocean conditions — 52,000+ records, XGBoost + Random Forest, real OceanSODA & FAO datasets.
 
-An AI/ML-based marine ecosystem analysis system focused on predicting fish survival outcomes under changing environmental conditions.
+**[SMART-EVAC](https://github.com/ranjeetkaur14)**
+Disaster evacuation system in C++ — Dijkstra/Bellman-Ford routing, priority queue rescue scheduling, knapsack-based relief optimization.
 
-### Features
-- Integrated OceanSODA and FAO datasets
-- Species decline prediction using Random Forest and XGBoost
-- Environmental risk analysis using SST, pH, pCO₂, and dissolved oxygen
-- Large-scale data processing pipeline with 52,000+ records
-- Ecological stress and survival prediction system
+**[LifeLog](https://github.com/ranjeetkaur14)**
+AI wellness dashboard with Groq-powered health recommendations, medication tracking, and weekly trend visualizations. Built on Firebase + Chart.js.
 
-### Tech Stack
-Python, Pandas, NumPy, Scikit-learn, XGBoost, NetCDF4
+**[Memory Mosaic](https://ranjeetkaur14.github.io/MemoryMosaic/)** · **[2.0](https://ranjeetkaur14.github.io/MemoryMosaic-2.0/)**
+Nostalgia-first digital photo album. Built at a hackathon, then rebuilt better.
 
 ---
 
-## SMART-EVAC
+## 📍 right now
 
-An intelligent disaster evacuation and relief management system built using graph algorithms and optimization techniques.
+Diving deeper into intelligent system design and scalable architectures. Always up for interesting problems.
 
-### Features
-- Dynamic evacuation route generation
-- Dijkstra and Bellman-Ford based routing
-- Shelter occupancy management
-- Rescue scheduling using priority queues
-- Relief optimization using Knapsack Algorithm
-- Connectivity analysis using Union-Find
-
-### Tech Stack
-C++, Graph Algorithms, Data Structures, REST APIs
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjeet-kaur-b95903321/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ranjeetkaur14)
 
 ---
 
-## LifeLog — AI Preventive Wellness Dashboard
-
-An AI-powered wellness tracking platform designed to help users monitor and improve daily health habits through preventive healthcare insights.
-
-### Features
-- Wellness score computation system
-- AI-generated health recommendations using Groq API
-- Medication management and adherence tracking
-- Weekly wellness trend visualization
-- Firebase Authentication and Firestore integration
-- Responsive dashboard for desktop and mobile
-
-### Tech Stack
-HTML, CSS, JavaScript, Firebase, Firestore, Chart.js, Groq API
-
----
-
-## Memory Mosaic
-
-A nostalgia-inspired digital photo album web application built during a hackathon.
-
-### Features
-- Interactive gallery experience
-- Album-inspired visual layout
-- Memory-focused storytelling interface
-- Responsive design
-
-### Live Demo
-https://ranjeetkaur14.github.io/MemoryMosaic/
-
----
-
-## Memory Mosaic 2.0
-
-An independently developed enhanced version of Memory Mosaic focused on personalization and improved user experience.
-
-### Features
-- Enhanced personalization
-- Improved visual design
-- Refined user interaction
-- Cleaner and more scalable structure
-
-### Live Demo
-https://ranjeetkaur14.github.io/MemoryMosaic-2.0/
-
----
-
-# Currently Exploring
-
-- Artificial Intelligence & Machine Learning
-- Advanced Data Structures & Algorithms
-- Scalable Web Applications
-- Intelligent System Design
-- Full-Stack Development
-
----
-
-# Connect With Me
-
-LinkedIn  
-https://www.linkedin.com/in/ranjeet-kaur-b95903321/
-
-GitHub  
-https://github.com/ranjeetkaur14
-
----
-
-# GitHub Contribution Activity
-
-![GitHub Snake](https://raw.githubusercontent.com/ranjeetkaur14/ranjeetkaur14/output/github-contribution-grid-snake-dark.svg)
+![snake](https://raw.githubusercontent.com/ranjeetkaur14/ranjeetkaur14/output/github-contribution-grid-snake-dark.svg)
