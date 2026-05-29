@@ -19,7 +19,7 @@ CS student at JIIT. I build things that sit at the intersection of algorithms, A
 
 ## projects
 
-**[BioClimate Analysis](https://github.com/ranjeetkaur14)**
+**[BioClimate Analysis](https://github.com/RanjeetKaur14/BioClimate_Analysis)**
 ML system for predicting fish survival outcomes under changing ocean conditions — 52,000+ records, XGBoost + Random Forest, real OceanSODA & FAO datasets.
 
 **[SMART-EVAC](https://github.com/ranjeetkaur14)**
