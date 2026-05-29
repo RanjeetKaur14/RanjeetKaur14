@@ -1,10 +1,10 @@
-# hey, I'm Ranjeet 👋
+# hey, I'm Ranjeet 
 
 CS student at JIIT. I build things that sit at the intersection of algorithms, AI, and real-world problems — from marine ecosystem ML pipelines to disaster evacuation systems.
 
 ---
 
-## 🛠 what I work with
+## what I work with
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -17,7 +17,7 @@ CS student at JIIT. I build things that sit at the intersection of algorithms, A
 
 ---
 
-## 🚀 projects
+## projects
 
 **[BioClimate Analysis](https://github.com/ranjeetkaur14)**
 ML system for predicting fish survival outcomes under changing ocean conditions — 52,000+ records, XGBoost + Random Forest, real OceanSODA & FAO datasets.
@@ -33,7 +33,7 @@ Nostalgia-first digital photo album. Built at a hackathon, then rebuilt better.
 
 ---
 
-## 📍 right now
+## right now
 
 Diving deeper into intelligent system design and scalable architectures. Always up for interesting problems.
 
